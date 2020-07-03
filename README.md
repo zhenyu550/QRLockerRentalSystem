@@ -1,4 +1,4 @@
-# QRLockerRentalSystem
+# QR Locker Rental System
 This project is developed as a product for Workshop 2, as a course requirement of Bachelor of Computer Science (Software Development) with Honours, at Universiti Teknikal Malaysia Melaka.
 
 QR Locker Rental System consists of 2 application, Locker Rental Management System (LRMS) and Locker Door Control Console (LDCC).
